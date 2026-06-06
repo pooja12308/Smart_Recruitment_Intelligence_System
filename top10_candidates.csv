@@ -1,0 +1,653 @@
+Category,Resume,Resume_Length,Clean_Resume,Skills,Education,Experience,Certifications,Projects,Similarity_Score,Skill_Match_Percentage,Experience_Match_Percentage,Project_Match_Percentage,Final_Score
+Data Science,"Education Details 
+ B.Tech   Rayat and Bahra Institute of Engineering and Biotechnology
+Data Science 
+
+Data Science
+Skill Details 
+Numpy- Exprience - Less than 1 year months
+Machine Learning- Exprience - Less than 1 year months
+Tensorflow- Exprience - Less than 1 year months
+Scikit- Exprience - Less than 1 year months
+Python- Exprience - Less than 1 year months
+GCP- Exprience - Less than 1 year months
+Pandas- Exprience - Less than 1 year months
+Neural Network- Exprience - Less than 1 year monthsCompany Details 
+company - Wipro
+description - Bhawana Aggarwal
+E-Mail:bhawana.chd@gmail.com
+Phone: 09876971076
+VVersatile, high-energy professional targeting challenging assignments in Machine
+PROFILE SUMMARY
+âª An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine
+Learning, Deep Learning, Data Science, Python, Software Development.
+âª Skilled in managing end-to-end development and software products / projects from inception, requirement
+specs, planning, designing, implementation, configuration and documentation.
+âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,
+NLP, GCP.
+âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks.
+âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,
+Support vector Machine(SVM),Logistic Regression, Neural networks.
+âª Have knowledge on unsupervised, Supervised and reinforcement data.
+âª Programming experience in relational platforms like MySQL,Oracle.
+âª Have knowledge on Some programming language like C++,Java.
+âª Experience in cloud based environment like Google Cloud.
+âª Working on different Operating System like Linux, Ubuntu, Windows.
+âª Good interpersonal and communication skills.
+âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term
+perspective
+âª Flexibility and an open attitude to change.
+âª Ability to create, define and own frameworks with a strong emphasis on code reusability.
+TECHNICAL SKILLS
+Programming Languages Python, C
+Libraries Seaborn, Numpy, Pandas, Cufflinks, Matplotlib
+Algorithms
+KNN, Decision Tree, Linear regression, Logistic Regression, Neural Networks, K means clustering,
+Tensorflow, SVM
+Databases SQL, Oracle
+Operating Systems Linux, Window
+Development Environments NetBeans, Notebooks, Sublime
+Ticketing tools Service Now, Remedy
+Education
+UG Education:
+B.Tech (Computer Science) from Rayat and Bahra Institute of Engineering and Biotechnology passed with 78.4%in
+2016.
+Schooling:
+XII in 2012 from Moti Ram Arya Sr. Secondary School(Passed with 78.4%)
+X in 2010 from Valley Public School (Passed with 9.4 CGPA)
+WORK EXPERINCE
+Title : Wipro Neural Intelligence Platform
+Team Size : 5
+Brief: Wiproâs Neural Intelligence Platform harnesses the power of automation and artificial intelligence
+technologiesânatural language processing (NLP), cognitive, machine learning, and analytics. The platform
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and
+unstructured data sources; an âintent assessment and reasoningâ engine that includes sentiment and predictive
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be
+eliminated.
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiâs and machine learning using
+Tensor flow for further learning of new entities.
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best
+suited response and make the system efficient.
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities
+using Keras TensorFlow framework.
+OTHER PROJECTS
+Title : Diabetes Detection
+Brief : Developed the software which can detect whether the person is suffering from Diabetes or not and got the third
+prize in it.
+TRAINING AND CERTIFICATIONS
+Title: Python Training, Machine Learning, Data Science, Deep Learning
+Organization: Udemy, Coursera (Machine Learning, Deep Learning)
+Personal Profile
+Fatherâs Name :Mr. Tirlok Aggarwal
+Language Known : English & Hindi
+Marital Status :Single
+Date of Birth(Gender):1993-12-20(YYYY-MM-DD) (F)
+company - Wipro
+description - Developing programs in Python.
+company - Wipro
+description - Title : Wipro Neural Intelligence Platform
+Team Size : 5
+Brief: Wiproâs Neural Intelligence Platform harnesses the power of automation and artificial intelligence
+technologiesânatural language processing (NLP), cognitive, machine learning, and analytics. The platform
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and
+unstructured data sources; an âintent assessment and reasoningâ engine that includes sentiment and predictive
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be
+eliminated.
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiâs and machine learning using
+Tensor flow for further learning of new entities.
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best
+suited response and make the system efficient.
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities
+using Keras TensorFlow framework.
+company - Wipro Technologies
+description - An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine
+Learning, Deep Learning, Data Science, Python, Software Development.
+âª Skilled in managing end-to-end development and software products / projects from inception, requirement
+specs, planning, designing, implementation, configuration and documentation.
+âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,
+NLP, GCP.
+âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks.
+âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,
+Support vector Machine(SVM),Logistic Regression, Neural networks.
+âª Have knowledge on unsupervised, Supervised and reinforcement data.
+âª Programming experience in relational platforms like MySQL,Oracle.
+âª Have knowledge on Some programming language like C++,Java.
+âª Experience in cloud based environment like Google Cloud.
+âª Working on different Operating System like Linux, Ubuntu, Windows.
+âª Good interpersonal and communication skills.
+âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term
+perspective
+âª Flexibility and an open attitude to change.
+âª Ability to create, define and own frameworks with a strong emphasis on code reusability.",8192,education details b tech rayat and bahra institute of engineering and biotechnology data science data science skill details numpy exprience less than year months machine learning exprience less than year months tensorflow exprience less than year months scikit exprience less than year months python exprience less than year months gcp exprience less than year months pandas exprience less than year months neural network exprience less than year monthscompany details company wipro description bhawana aggarwal e mail bhawana chd gmail com phone vversatile high energy professional targeting challenging assignments in machine profile summary an it professional with knowledge and experience of years in wipro technologies in machine learning deep learning data science python software development skilled in managing end to end development and software products projects from inception requirement specs planning designing implementation configuration and documentation knowledge on python machine learning deep learning data science algorithms neural network nlp gcp knowledge on python libraries like numpy pandas seaborn matplotlib cufflinks knowledge on different algorithms in machine learning like knn decision tree bias variance trade off support vector machine svm logistic regression neural networks have knowledge on unsupervised supervised and reinforcement data programming experience in relational platforms like mysql oracle have knowledge on some programming language like c java experience in cloud based environment like google cloud working on different operating system like linux ubuntu windows good interpersonal and communication skills problem solving skills with the ability to think laterally and to think with a medium term and long term perspective flexibility and an open attitude to change ability to create define and own frameworks with a strong emphasis on code reusability technical skills programming languages python c libraries seaborn numpy pandas cufflinks matplotlib algorithms knn decision tree linear regression logistic regression neural networks k means clustering tensorflow svm databases sql oracle operating systems linux window development environments netbeans notebooks sublime ticketing tools service now remedy education ug education b tech computer science from rayat and bahra institute of engineering and biotechnology passed with in schooling xii in from moti ram arya sr secondary school passed with x in from valley public school passed with cgpa work experince title wipro neural intelligence platform team size brief wipro s neural intelligence platform harnesses the power of automation and artificial intelligence technologies natural language processing nlp cognitive machine learning and analytics the platform comprises three layers a data engagement platform that can easily access and manage multiple structured and unstructured data sources an intent assessment and reasoning engine that includes sentiment and predictive analytics and a deep machine learning engine that can sense act and learn over time the project entailed automating responses to user queries at the earliest the monster bot using the power of deep machine learning nlp to handle such queries user can see the how their queries can be answered quickly like alll activities can be eliminated entity extractor this involves text extraction and nlp for fetching out important information from the text like dates names places contact numbers etc this involves regex bluemix nlu api s and machine learning using tensor flow for further learning of new entities classifier this involves the classifications of classes training of dataset and predicting the output using the sklearn classifier mnb svm sgd as classifier and sgd for the optimization to map the user queries with the best suited response and make the system efficient ner a deep learning ner model is trained to extract the entities from the text entities like roles skills organizations can be extracted from raw text rnn lstm bidirectional model is trained for extracting such entities using keras tensorflow framework other projects title diabetes detection brief developed the software which can detect whether the person is suffering from diabetes or not and got the third prize in it training and certifications title python training machine learning data science deep learning organization udemy coursera machine learning deep learning personal profile father s name mr tirlok aggarwal language known english hindi marital status single date of birth gender yyyy mm dd f company wipro description developing programs in python company wipro description title wipro neural intelligence platform team size brief wipro s neural intelligence platform harnesses the power of automation and artificial intelligence technologies natural language processing nlp cognitive machine learning and analytics the platform comprises three layers a data engagement platform that can easily access and manage multiple structured and unstructured data sources an intent assessment and reasoning engine that includes sentiment and predictive analytics and a deep machine learning engine that can sense act and learn over time the project entailed automating responses to user queries at the earliest the monster bot using the power of deep machine learning nlp to handle such queries user can see the how their queries can be answered quickly like alll activities can be eliminated entity extractor this involves text extraction and nlp for fetching out important information from the text like dates names places contact numbers etc this involves regex bluemix nlu api s and machine learning using tensor flow for further learning of new entities classifier this involves the classifications of classes training of dataset and predicting the output using the sklearn classifier mnb svm sgd as classifier and sgd for the optimization to map the user queries with the best suited response and make the system efficient ner a deep learning ner model is trained to extract the entities from the text entities like roles skills organizations can be extracted from raw text rnn lstm bidirectional model is trained for extracting such entities using keras tensorflow framework company wipro technologies description an it professional with knowledge and experience of years in wipro technologies in machine learning deep learning data science python software development skilled in managing end to end development and software products projects from inception requirement specs planning designing implementation configuration and documentation knowledge on python machine learning deep learning data science algorithms neural network nlp gcp knowledge on python libraries like numpy pandas seaborn matplotlib cufflinks knowledge on different algorithms in machine learning like knn decision tree bias variance trade off support vector machine svm logistic regression neural networks have knowledge on unsupervised supervised and reinforcement data programming experience in relational platforms like mysql oracle have knowledge on some programming language like c java experience in cloud based environment like google cloud working on different operating system like linux ubuntu windows good interpersonal and communication skills problem solving skills with the ability to think laterally and to think with a medium term and long term perspective flexibility and an open attitude to change ability to create define and own frameworks with a strong emphasis on code reusability,"['artificial intelligence', 'deep learning', 'c', 'mysql', 'python', 'sql', 'r', 'keras', 'linux', 'nlp', 'gcp', 'machine learning', 'java', 'tensorflow']",['b.tech'],"['2', '2']",[],"['developed', 'project']",0.378284130772824,100.0,100.0,100,68.9142065386412
+Data Science,"Education Details 
+ B.Tech   Rayat and Bahra Institute of Engineering and Biotechnology
+Data Science 
+
+Data Science
+Skill Details 
+Numpy- Exprience - Less than 1 year months
+Machine Learning- Exprience - Less than 1 year months
+Tensorflow- Exprience - Less than 1 year months
+Scikit- Exprience - Less than 1 year months
+Python- Exprience - Less than 1 year months
+GCP- Exprience - Less than 1 year months
+Pandas- Exprience - Less than 1 year months
+Neural Network- Exprience - Less than 1 year monthsCompany Details 
+company - Wipro
+description - Bhawana Aggarwal
+E-Mail:bhawana.chd@gmail.com
+Phone: 09876971076
+VVersatile, high-energy professional targeting challenging assignments in Machine
+PROFILE SUMMARY
+âª An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine
+Learning, Deep Learning, Data Science, Python, Software Development.
+âª Skilled in managing end-to-end development and software products / projects from inception, requirement
+specs, planning, designing, implementation, configuration and documentation.
+âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,
+NLP, GCP.
+âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks.
+âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,
+Support vector Machine(SVM),Logistic Regression, Neural networks.
+âª Have knowledge on unsupervised, Supervised and reinforcement data.
+âª Programming experience in relational platforms like MySQL,Oracle.
+âª Have knowledge on Some programming language like C++,Java.
+âª Experience in cloud based environment like Google Cloud.
+âª Working on different Operating System like Linux, Ubuntu, Windows.
+âª Good interpersonal and communication skills.
+âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term
+perspective
+âª Flexibility and an open attitude to change.
+âª Ability to create, define and own frameworks with a strong emphasis on code reusability.
+TECHNICAL SKILLS
+Programming Languages Python, C
+Libraries Seaborn, Numpy, Pandas, Cufflinks, Matplotlib
+Algorithms
+KNN, Decision Tree, Linear regression, Logistic Regression, Neural Networks, K means clustering,
+Tensorflow, SVM
+Databases SQL, Oracle
+Operating Systems Linux, Window
+Development Environments NetBeans, Notebooks, Sublime
+Ticketing tools Service Now, Remedy
+Education
+UG Education:
+B.Tech (Computer Science) from Rayat and Bahra Institute of Engineering and Biotechnology passed with 78.4%in
+2016.
+Schooling:
+XII in 2012 from Moti Ram Arya Sr. Secondary School(Passed with 78.4%)
+X in 2010 from Valley Public School (Passed with 9.4 CGPA)
+WORK EXPERINCE
+Title : Wipro Neural Intelligence Platform
+Team Size : 5
+Brief: Wiproâs Neural Intelligence Platform harnesses the power of automation and artificial intelligence
+technologiesânatural language processing (NLP), cognitive, machine learning, and analytics. The platform
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and
+unstructured data sources; an âintent assessment and reasoningâ engine that includes sentiment and predictive
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be
+eliminated.
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiâs and machine learning using
+Tensor flow for further learning of new entities.
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best
+suited response and make the system efficient.
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities
+using Keras TensorFlow framework.
+OTHER PROJECTS
+Title : Diabetes Detection
+Brief : Developed the software which can detect whether the person is suffering from Diabetes or not and got the third
+prize in it.
+TRAINING AND CERTIFICATIONS
+Title: Python Training, Machine Learning, Data Science, Deep Learning
+Organization: Udemy, Coursera (Machine Learning, Deep Learning)
+Personal Profile
+Fatherâs Name :Mr. Tirlok Aggarwal
+Language Known : English & Hindi
+Marital Status :Single
+Date of Birth(Gender):1993-12-20(YYYY-MM-DD) (F)
+company - Wipro
+description - Developing programs in Python.
+company - Wipro
+description - Title : Wipro Neural Intelligence Platform
+Team Size : 5
+Brief: Wiproâs Neural Intelligence Platform harnesses the power of automation and artificial intelligence
+technologiesânatural language processing (NLP), cognitive, machine learning, and analytics. The platform
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and
+unstructured data sources; an âintent assessment and reasoningâ engine that includes sentiment and predictive
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be
+eliminated.
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiâs and machine learning using
+Tensor flow for further learning of new entities.
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best
+suited response and make the system efficient.
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities
+using Keras TensorFlow framework.
+company - Wipro Technologies
+description - An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine
+Learning, Deep Learning, Data Science, Python, Software Development.
+âª Skilled in managing end-to-end development and software products / projects from inception, requirement
+specs, planning, designing, implementation, configuration and documentation.
+âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,
+NLP, GCP.
+âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks.
+âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,
+Support vector Machine(SVM),Logistic Regression, Neural networks.
+âª Have knowledge on unsupervised, Supervised and reinforcement data.
+âª Programming experience in relational platforms like MySQL,Oracle.
+âª Have knowledge on Some programming language like C++,Java.
+âª Experience in cloud based environment like Google Cloud.
+âª Working on different Operating System like Linux, Ubuntu, Windows.
+âª Good interpersonal and communication skills.
+âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term
+perspective
+âª Flexibility and an open attitude to change.
+âª Ability to create, define and own frameworks with a strong emphasis on code reusability.",8192,education details b tech rayat and bahra institute of engineering and biotechnology data science data science skill details numpy exprience less than year months machine learning exprience less than year months tensorflow exprience less than year months scikit exprience less than year months python exprience less than year months gcp exprience less than year months pandas exprience less than year months neural network exprience less than year monthscompany details company wipro description bhawana aggarwal e mail bhawana chd gmail com phone vversatile high energy professional targeting challenging assignments in machine profile summary an it professional with knowledge and experience of years in wipro technologies in machine learning deep learning data science python software development skilled in managing end to end development and software products projects from inception requirement specs planning designing implementation configuration and documentation knowledge on python machine learning deep learning data science algorithms neural network nlp gcp knowledge on python libraries like numpy pandas seaborn matplotlib cufflinks knowledge on different algorithms in machine learning like knn decision tree bias variance trade off support vector machine svm logistic regression neural networks have knowledge on unsupervised supervised and reinforcement data programming experience in relational platforms like mysql oracle have knowledge on some programming language like c java experience in cloud based environment like google cloud working on different operating system like linux ubuntu windows good interpersonal and communication skills problem solving skills with the ability to think laterally and to think with a medium term and long term perspective flexibility and an open attitude to change ability to create define and own frameworks with a strong emphasis on code reusability technical skills programming languages python c libraries seaborn numpy pandas cufflinks matplotlib algorithms knn decision tree linear regression logistic regression neural networks k means clustering tensorflow svm databases sql oracle operating systems linux window development environments netbeans notebooks sublime ticketing tools service now remedy education ug education b tech computer science from rayat and bahra institute of engineering and biotechnology passed with in schooling xii in from moti ram arya sr secondary school passed with x in from valley public school passed with cgpa work experince title wipro neural intelligence platform team size brief wipro s neural intelligence platform harnesses the power of automation and artificial intelligence technologies natural language processing nlp cognitive machine learning and analytics the platform comprises three layers a data engagement platform that can easily access and manage multiple structured and unstructured data sources an intent assessment and reasoning engine that includes sentiment and predictive analytics and a deep machine learning engine that can sense act and learn over time the project entailed automating responses to user queries at the earliest the monster bot using the power of deep machine learning nlp to handle such queries user can see the how their queries can be answered quickly like alll activities can be eliminated entity extractor this involves text extraction and nlp for fetching out important information from the text like dates names places contact numbers etc this involves regex bluemix nlu api s and machine learning using tensor flow for further learning of new entities classifier this involves the classifications of classes training of dataset and predicting the output using the sklearn classifier mnb svm sgd as classifier and sgd for the optimization to map the user queries with the best suited response and make the system efficient ner a deep learning ner model is trained to extract the entities from the text entities like roles skills organizations can be extracted from raw text rnn lstm bidirectional model is trained for extracting such entities using keras tensorflow framework other projects title diabetes detection brief developed the software which can detect whether the person is suffering from diabetes or not and got the third prize in it training and certifications title python training machine learning data science deep learning organization udemy coursera machine learning deep learning personal profile father s name mr tirlok aggarwal language known english hindi marital status single date of birth gender yyyy mm dd f company wipro description developing programs in python company wipro description title wipro neural intelligence platform team size brief wipro s neural intelligence platform harnesses the power of automation and artificial intelligence technologies natural language processing nlp cognitive machine learning and analytics the platform comprises three layers a data engagement platform that can easily access and manage multiple structured and unstructured data sources an intent assessment and reasoning engine that includes sentiment and predictive analytics and a deep machine learning engine that can sense act and learn over time the project entailed automating responses to user queries at the earliest the monster bot using the power of deep machine learning nlp to handle such queries user can see the how their queries can be answered quickly like alll activities can be eliminated entity extractor this involves text extraction and nlp for fetching out important information from the text like dates names places contact numbers etc this involves regex bluemix nlu api s and machine learning using tensor flow for further learning of new entities classifier this involves the classifications of classes training of dataset and predicting the output using the sklearn classifier mnb svm sgd as classifier and sgd for the optimization to map the user queries with the best suited response and make the system efficient ner a deep learning ner model is trained to extract the entities from the text entities like roles skills organizations can be extracted from raw text rnn lstm bidirectional model is trained for extracting such entities using keras tensorflow framework company wipro technologies description an it professional with knowledge and experience of years in wipro technologies in machine learning deep learning data science python software development skilled in managing end to end development and software products projects from inception requirement specs planning designing implementation configuration and documentation knowledge on python machine learning deep learning data science algorithms neural network nlp gcp knowledge on python libraries like numpy pandas seaborn matplotlib cufflinks knowledge on different algorithms in machine learning like knn decision tree bias variance trade off support vector machine svm logistic regression neural networks have knowledge on unsupervised supervised and reinforcement data programming experience in relational platforms like mysql oracle have knowledge on some programming language like c java experience in cloud based environment like google cloud working on different operating system like linux ubuntu windows good interpersonal and communication skills problem solving skills with the ability to think laterally and to think with a medium term and long term perspective flexibility and an open attitude to change ability to create define and own frameworks with a strong emphasis on code reusability,"['artificial intelligence', 'deep learning', 'c', 'mysql', 'python', 'sql', 'r', 'keras', 'linux', 'nlp', 'gcp', 'machine learning', 'java', 'tensorflow']",['b.tech'],"['2', '2']",[],"['developed', 'project']",0.378284130772824,100.0,100.0,100,68.9142065386412
+Data Science,"Education Details 
+ B.Tech   Rayat and Bahra Institute of Engineering and Biotechnology
+Data Science 
+
+Data Science
+Skill Details 
+Numpy- Exprience - Less than 1 year months
+Machine Learning- Exprience - Less than 1 year months
+Tensorflow- Exprience - Less than 1 year months
+Scikit- Exprience - Less than 1 year months
+Python- Exprience - Less than 1 year months
+GCP- Exprience - Less than 1 year months
+Pandas- Exprience - Less than 1 year months
+Neural Network- Exprience - Less than 1 year monthsCompany Details 
+company - Wipro
+description - Bhawana Aggarwal
+E-Mail:bhawana.chd@gmail.com
+Phone: 09876971076
+VVersatile, high-energy professional targeting challenging assignments in Machine
+PROFILE SUMMARY
+âª An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine
+Learning, Deep Learning, Data Science, Python, Software Development.
+âª Skilled in managing end-to-end development and software products / projects from inception, requirement
+specs, planning, designing, implementation, configuration and documentation.
+âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,
+NLP, GCP.
+âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks.
+âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,
+Support vector Machine(SVM),Logistic Regression, Neural networks.
+âª Have knowledge on unsupervised, Supervised and reinforcement data.
+âª Programming experience in relational platforms like MySQL,Oracle.
+âª Have knowledge on Some programming language like C++,Java.
+âª Experience in cloud based environment like Google Cloud.
+âª Working on different Operating System like Linux, Ubuntu, Windows.
+âª Good interpersonal and communication skills.
+âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term
+perspective
+âª Flexibility and an open attitude to change.
+âª Ability to create, define and own frameworks with a strong emphasis on code reusability.
+TECHNICAL SKILLS
+Programming Languages Python, C
+Libraries Seaborn, Numpy, Pandas, Cufflinks, Matplotlib
+Algorithms
+KNN, Decision Tree, Linear regression, Logistic Regression, Neural Networks, K means clustering,
+Tensorflow, SVM
+Databases SQL, Oracle
+Operating Systems Linux, Window
+Development Environments NetBeans, Notebooks, Sublime
+Ticketing tools Service Now, Remedy
+Education
+UG Education:
+B.Tech (Computer Science) from Rayat and Bahra Institute of Engineering and Biotechnology passed with 78.4%in
+2016.
+Schooling:
+XII in 2012 from Moti Ram Arya Sr. Secondary School(Passed with 78.4%)
+X in 2010 from Valley Public School (Passed with 9.4 CGPA)
+WORK EXPERINCE
+Title : Wipro Neural Intelligence Platform
+Team Size : 5
+Brief: Wiproâs Neural Intelligence Platform harnesses the power of automation and artificial intelligence
+technologiesânatural language processing (NLP), cognitive, machine learning, and analytics. The platform
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and
+unstructured data sources; an âintent assessment and reasoningâ engine that includes sentiment and predictive
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be
+eliminated.
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiâs and machine learning using
+Tensor flow for further learning of new entities.
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best
+suited response and make the system efficient.
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities
+using Keras TensorFlow framework.
+OTHER PROJECTS
+Title : Diabetes Detection
+Brief : Developed the software which can detect whether the person is suffering from Diabetes or not and got the third
+prize in it.
+TRAINING AND CERTIFICATIONS
+Title: Python Training, Machine Learning, Data Science, Deep Learning
+Organization: Udemy, Coursera (Machine Learning, Deep Learning)
+Personal Profile
+Fatherâs Name :Mr. Tirlok Aggarwal
+Language Known : English & Hindi
+Marital Status :Single
+Date of Birth(Gender):1993-12-20(YYYY-MM-DD) (F)
+company - Wipro
+description - Developing programs in Python.
+company - Wipro
+description - Title : Wipro Neural Intelligence Platform
+Team Size : 5
+Brief: Wiproâs Neural Intelligence Platform harnesses the power of automation and artificial intelligence
+technologiesânatural language processing (NLP), cognitive, machine learning, and analytics. The platform
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and
+unstructured data sources; an âintent assessment and reasoningâ engine that includes sentiment and predictive
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be
+eliminated.
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiâs and machine learning using
+Tensor flow for further learning of new entities.
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best
+suited response and make the system efficient.
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities
+using Keras TensorFlow framework.
+company - Wipro Technologies
+description - An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine
+Learning, Deep Learning, Data Science, Python, Software Development.
+âª Skilled in managing end-to-end development and software products / projects from inception, requirement
+specs, planning, designing, implementation, configuration and documentation.
+âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,
+NLP, GCP.
+âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks.
+âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,
+Support vector Machine(SVM),Logistic Regression, Neural networks.
+âª Have knowledge on unsupervised, Supervised and reinforcement data.
+âª Programming experience in relational platforms like MySQL,Oracle.
+âª Have knowledge on Some programming language like C++,Java.
+âª Experience in cloud based environment like Google Cloud.
+âª Working on different Operating System like Linux, Ubuntu, Windows.
+âª Good interpersonal and communication skills.
+âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term
+perspective
+âª Flexibility and an open attitude to change.
+âª Ability to create, define and own frameworks with a strong emphasis on code reusability.",8192,education details b tech rayat and bahra institute of engineering and biotechnology data science data science skill details numpy exprience less than year months machine learning exprience less than year months tensorflow exprience less than year months scikit exprience less than year months python exprience less than year months gcp exprience less than year months pandas exprience less than year months neural network exprience less than year monthscompany details company wipro description bhawana aggarwal e mail bhawana chd gmail com phone vversatile high energy professional targeting challenging assignments in machine profile summary an it professional with knowledge and experience of years in wipro technologies in machine learning deep learning data science python software development skilled in managing end to end development and software products projects from inception requirement specs planning designing implementation configuration and documentation knowledge on python machine learning deep learning data science algorithms neural network nlp gcp knowledge on python libraries like numpy pandas seaborn matplotlib cufflinks knowledge on different algorithms in machine learning like knn decision tree bias variance trade off support vector machine svm logistic regression neural networks have knowledge on unsupervised supervised and reinforcement data programming experience in relational platforms like mysql oracle have knowledge on some programming language like c java experience in cloud based environment like google cloud working on different operating system like linux ubuntu windows good interpersonal and communication skills problem solving skills with the ability to think laterally and to think with a medium term and long term perspective flexibility and an open attitude to change ability to create define and own frameworks with a strong emphasis on code reusability technical skills programming languages python c libraries seaborn numpy pandas cufflinks matplotlib algorithms knn decision tree linear regression logistic regression neural networks k means clustering tensorflow svm databases sql oracle operating systems linux window development environments netbeans notebooks sublime ticketing tools service now remedy education ug education b tech computer science from rayat and bahra institute of engineering and biotechnology passed with in schooling xii in from moti ram arya sr secondary school passed with x in from valley public school passed with cgpa work experince title wipro neural intelligence platform team size brief wipro s neural intelligence platform harnesses the power of automation and artificial intelligence technologies natural language processing nlp cognitive machine learning and analytics the platform comprises three layers a data engagement platform that can easily access and manage multiple structured and unstructured data sources an intent assessment and reasoning engine that includes sentiment and predictive analytics and a deep machine learning engine that can sense act and learn over time the project entailed automating responses to user queries at the earliest the monster bot using the power of deep machine learning nlp to handle such queries user can see the how their queries can be answered quickly like alll activities can be eliminated entity extractor this involves text extraction and nlp for fetching out important information from the text like dates names places contact numbers etc this involves regex bluemix nlu api s and machine learning using tensor flow for further learning of new entities classifier this involves the classifications of classes training of dataset and predicting the output using the sklearn classifier mnb svm sgd as classifier and sgd for the optimization to map the user queries with the best suited response and make the system efficient ner a deep learning ner model is trained to extract the entities from the text entities like roles skills organizations can be extracted from raw text rnn lstm bidirectional model is trained for extracting such entities using keras tensorflow framework other projects title diabetes detection brief developed the software which can detect whether the person is suffering from diabetes or not and got the third prize in it training and certifications title python training machine learning data science deep learning organization udemy coursera machine learning deep learning personal profile father s name mr tirlok aggarwal language known english hindi marital status single date of birth gender yyyy mm dd f company wipro description developing programs in python company wipro description title wipro neural intelligence platform team size brief wipro s neural intelligence platform harnesses the power of automation and artificial intelligence technologies natural language processing nlp cognitive machine learning and analytics the platform comprises three layers a data engagement platform that can easily access and manage multiple structured and unstructured data sources an intent assessment and reasoning engine that includes sentiment and predictive analytics and a deep machine learning engine that can sense act and learn over time the project entailed automating responses to user queries at the earliest the monster bot using the power of deep machine learning nlp to handle such queries user can see the how their queries can be answered quickly like alll activities can be eliminated entity extractor this involves text extraction and nlp for fetching out important information from the text like dates names places contact numbers etc this involves regex bluemix nlu api s and machine learning using tensor flow for further learning of new entities classifier this involves the classifications of classes training of dataset and predicting the output using the sklearn classifier mnb svm sgd as classifier and sgd for the optimization to map the user queries with the best suited response and make the system efficient ner a deep learning ner model is trained to extract the entities from the text entities like roles skills organizations can be extracted from raw text rnn lstm bidirectional model is trained for extracting such entities using keras tensorflow framework company wipro technologies description an it professional with knowledge and experience of years in wipro technologies in machine learning deep learning data science python software development skilled in managing end to end development and software products projects from inception requirement specs planning designing implementation configuration and documentation knowledge on python machine learning deep learning data science algorithms neural network nlp gcp knowledge on python libraries like numpy pandas seaborn matplotlib cufflinks knowledge on different algorithms in machine learning like knn decision tree bias variance trade off support vector machine svm logistic regression neural networks have knowledge on unsupervised supervised and reinforcement data programming experience in relational platforms like mysql oracle have knowledge on some programming language like c java experience in cloud based environment like google cloud working on different operating system like linux ubuntu windows good interpersonal and communication skills problem solving skills with the ability to think laterally and to think with a medium term and long term perspective flexibility and an open attitude to change ability to create define and own frameworks with a strong emphasis on code reusability,"['artificial intelligence', 'deep learning', 'c', 'mysql', 'python', 'sql', 'r', 'keras', 'linux', 'nlp', 'gcp', 'machine learning', 'java', 'tensorflow']",['b.tech'],"['2', '2']",[],"['developed', 'project']",0.378284130772824,100.0,100.0,100,68.9142065386412
+Data Science,"Education Details 
+ B.Tech   Rayat and Bahra Institute of Engineering and Biotechnology
+Data Science 
+
+Data Science
+Skill Details 
+Numpy- Exprience - Less than 1 year months
+Machine Learning- Exprience - Less than 1 year months
+Tensorflow- Exprience - Less than 1 year months
+Scikit- Exprience - Less than 1 year months
+Python- Exprience - Less than 1 year months
+GCP- Exprience - Less than 1 year months
+Pandas- Exprience - Less than 1 year months
+Neural Network- Exprience - Less than 1 year monthsCompany Details 
+company - Wipro
+description - Bhawana Aggarwal
+E-Mail:bhawana.chd@gmail.com
+Phone: 09876971076
+VVersatile, high-energy professional targeting challenging assignments in Machine
+PROFILE SUMMARY
+âª An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine
+Learning, Deep Learning, Data Science, Python, Software Development.
+âª Skilled in managing end-to-end development and software products / projects from inception, requirement
+specs, planning, designing, implementation, configuration and documentation.
+âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,
+NLP, GCP.
+âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks.
+âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,
+Support vector Machine(SVM),Logistic Regression, Neural networks.
+âª Have knowledge on unsupervised, Supervised and reinforcement data.
+âª Programming experience in relational platforms like MySQL,Oracle.
+âª Have knowledge on Some programming language like C++,Java.
+âª Experience in cloud based environment like Google Cloud.
+âª Working on different Operating System like Linux, Ubuntu, Windows.
+âª Good interpersonal and communication skills.
+âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term
+perspective
+âª Flexibility and an open attitude to change.
+âª Ability to create, define and own frameworks with a strong emphasis on code reusability.
+TECHNICAL SKILLS
+Programming Languages Python, C
+Libraries Seaborn, Numpy, Pandas, Cufflinks, Matplotlib
+Algorithms
+KNN, Decision Tree, Linear regression, Logistic Regression, Neural Networks, K means clustering,
+Tensorflow, SVM
+Databases SQL, Oracle
+Operating Systems Linux, Window
+Development Environments NetBeans, Notebooks, Sublime
+Ticketing tools Service Now, Remedy
+Education
+UG Education:
+B.Tech (Computer Science) from Rayat and Bahra Institute of Engineering and Biotechnology passed with 78.4%in
+2016.
+Schooling:
+XII in 2012 from Moti Ram Arya Sr. Secondary School(Passed with 78.4%)
+X in 2010 from Valley Public School (Passed with 9.4 CGPA)
+WORK EXPERINCE
+Title : Wipro Neural Intelligence Platform
+Team Size : 5
+Brief: Wiproâs Neural Intelligence Platform harnesses the power of automation and artificial intelligence
+technologiesânatural language processing (NLP), cognitive, machine learning, and analytics. The platform
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and
+unstructured data sources; an âintent assessment and reasoningâ engine that includes sentiment and predictive
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be
+eliminated.
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiâs and machine learning using
+Tensor flow for further learning of new entities.
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best
+suited response and make the system efficient.
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities
+using Keras TensorFlow framework.
+OTHER PROJECTS
+Title : Diabetes Detection
+Brief : Developed the software which can detect whether the person is suffering from Diabetes or not and got the third
+prize in it.
+TRAINING AND CERTIFICATIONS
+Title: Python Training, Machine Learning, Data Science, Deep Learning
+Organization: Udemy, Coursera (Machine Learning, Deep Learning)
+Personal Profile
+Fatherâs Name :Mr. Tirlok Aggarwal
+Language Known : English & Hindi
+Marital Status :Single
+Date of Birth(Gender):1993-12-20(YYYY-MM-DD) (F)
+company - Wipro
+description - Developing programs in Python.
+company - Wipro
+description - Title : Wipro Neural Intelligence Platform
+Team Size : 5
+Brief: Wiproâs Neural Intelligence Platform harnesses the power of automation and artificial intelligence
+technologiesânatural language processing (NLP), cognitive, machine learning, and analytics. The platform
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and
+unstructured data sources; an âintent assessment and reasoningâ engine that includes sentiment and predictive
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be
+eliminated.
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiâs and machine learning using
+Tensor flow for further learning of new entities.
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best
+suited response and make the system efficient.
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities
+using Keras TensorFlow framework.
+company - Wipro Technologies
+description - An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine
+Learning, Deep Learning, Data Science, Python, Software Development.
+âª Skilled in managing end-to-end development and software products / projects from inception, requirement
+specs, planning, designing, implementation, configuration and documentation.
+âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,
+NLP, GCP.
+âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks.
+âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,
+Support vector Machine(SVM),Logistic Regression, Neural networks.
+âª Have knowledge on unsupervised, Supervised and reinforcement data.
+âª Programming experience in relational platforms like MySQL,Oracle.
+âª Have knowledge on Some programming language like C++,Java.
+âª Experience in cloud based environment like Google Cloud.
+âª Working on different Operating System like Linux, Ubuntu, Windows.
+âª Good interpersonal and communication skills.
+âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term
+perspective
+âª Flexibility and an open attitude to change.
+âª Ability to create, define and own frameworks with a strong emphasis on code reusability.",8192,education details b tech rayat and bahra institute of engineering and biotechnology data science data science skill details numpy exprience less than year months machine learning exprience less than year months tensorflow exprience less than year months scikit exprience less than year months python exprience less than year months gcp exprience less than year months pandas exprience less than year months neural network exprience less than year monthscompany details company wipro description bhawana aggarwal e mail bhawana chd gmail com phone vversatile high energy professional targeting challenging assignments in machine profile summary an it professional with knowledge and experience of years in wipro technologies in machine learning deep learning data science python software development skilled in managing end to end development and software products projects from inception requirement specs planning designing implementation configuration and documentation knowledge on python machine learning deep learning data science algorithms neural network nlp gcp knowledge on python libraries like numpy pandas seaborn matplotlib cufflinks knowledge on different algorithms in machine learning like knn decision tree bias variance trade off support vector machine svm logistic regression neural networks have knowledge on unsupervised supervised and reinforcement data programming experience in relational platforms like mysql oracle have knowledge on some programming language like c java experience in cloud based environment like google cloud working on different operating system like linux ubuntu windows good interpersonal and communication skills problem solving skills with the ability to think laterally and to think with a medium term and long term perspective flexibility and an open attitude to change ability to create define and own frameworks with a strong emphasis on code reusability technical skills programming languages python c libraries seaborn numpy pandas cufflinks matplotlib algorithms knn decision tree linear regression logistic regression neural networks k means clustering tensorflow svm databases sql oracle operating systems linux window development environments netbeans notebooks sublime ticketing tools service now remedy education ug education b tech computer science from rayat and bahra institute of engineering and biotechnology passed with in schooling xii in from moti ram arya sr secondary school passed with x in from valley public school passed with cgpa work experince title wipro neural intelligence platform team size brief wipro s neural intelligence platform harnesses the power of automation and artificial intelligence technologies natural language processing nlp cognitive machine learning and analytics the platform comprises three layers a data engagement platform that can easily access and manage multiple structured and unstructured data sources an intent assessment and reasoning engine that includes sentiment and predictive analytics and a deep machine learning engine that can sense act and learn over time the project entailed automating responses to user queries at the earliest the monster bot using the power of deep machine learning nlp to handle such queries user can see the how their queries can be answered quickly like alll activities can be eliminated entity extractor this involves text extraction and nlp for fetching out important information from the text like dates names places contact numbers etc this involves regex bluemix nlu api s and machine learning using tensor flow for further learning of new entities classifier this involves the classifications of classes training of dataset and predicting the output using the sklearn classifier mnb svm sgd as classifier and sgd for the optimization to map the user queries with the best suited response and make the system efficient ner a deep learning ner model is trained to extract the entities from the text entities like roles skills organizations can be extracted from raw text rnn lstm bidirectional model is trained for extracting such entities using keras tensorflow framework other projects title diabetes detection brief developed the software which can detect whether the person is suffering from diabetes or not and got the third prize in it training and certifications title python training machine learning data science deep learning organization udemy coursera machine learning deep learning personal profile father s name mr tirlok aggarwal language known english hindi marital status single date of birth gender yyyy mm dd f company wipro description developing programs in python company wipro description title wipro neural intelligence platform team size brief wipro s neural intelligence platform harnesses the power of automation and artificial intelligence technologies natural language processing nlp cognitive machine learning and analytics the platform comprises three layers a data engagement platform that can easily access and manage multiple structured and unstructured data sources an intent assessment and reasoning engine that includes sentiment and predictive analytics and a deep machine learning engine that can sense act and learn over time the project entailed automating responses to user queries at the earliest the monster bot using the power of deep machine learning nlp to handle such queries user can see the how their queries can be answered quickly like alll activities can be eliminated entity extractor this involves text extraction and nlp for fetching out important information from the text like dates names places contact numbers etc this involves regex bluemix nlu api s and machine learning using tensor flow for further learning of new entities classifier this involves the classifications of classes training of dataset and predicting the output using the sklearn classifier mnb svm sgd as classifier and sgd for the optimization to map the user queries with the best suited response and make the system efficient ner a deep learning ner model is trained to extract the entities from the text entities like roles skills organizations can be extracted from raw text rnn lstm bidirectional model is trained for extracting such entities using keras tensorflow framework company wipro technologies description an it professional with knowledge and experience of years in wipro technologies in machine learning deep learning data science python software development skilled in managing end to end development and software products projects from inception requirement specs planning designing implementation configuration and documentation knowledge on python machine learning deep learning data science algorithms neural network nlp gcp knowledge on python libraries like numpy pandas seaborn matplotlib cufflinks knowledge on different algorithms in machine learning like knn decision tree bias variance trade off support vector machine svm logistic regression neural networks have knowledge on unsupervised supervised and reinforcement data programming experience in relational platforms like mysql oracle have knowledge on some programming language like c java experience in cloud based environment like google cloud working on different operating system like linux ubuntu windows good interpersonal and communication skills problem solving skills with the ability to think laterally and to think with a medium term and long term perspective flexibility and an open attitude to change ability to create define and own frameworks with a strong emphasis on code reusability,"['artificial intelligence', 'deep learning', 'c', 'mysql', 'python', 'sql', 'r', 'keras', 'linux', 'nlp', 'gcp', 'machine learning', 'java', 'tensorflow']",['b.tech'],"['2', '2']",[],"['developed', 'project']",0.378284130772824,100.0,100.0,100,68.9142065386412
+Data Science,"Skills â¢ Python â¢ Tableau â¢ Data Visualization â¢ R Studio â¢ Machine Learning â¢ Statistics IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.Education Details 
+January 2017 B. Tech Computer Science & Engineering Mohali, Punjab Indo Global College of Engineering
+Data Science Consultant 
+
+Data Science Consultant - Datamites
+Skill Details 
+MACHINE LEARNING- Exprience - 13 months
+PYTHON- Exprience - 24 months
+SOLUTIONS- Exprience - 24 months
+DATA SCIENCE- Exprience - 24 months
+DATA VISUALIZATION- Exprience - 24 months
+Tableau- Exprience - 24 monthsCompany Details 
+company - Datamites
+description - â¢ Analyzed and processed complex data sets using advanced querying, visualization and analytics tools.
+â¢ Responsible for loading, extracting and validation of client data.
+â¢ Worked on manipulating, cleaning & processing data using python.
+â¢ Used Tableau for data visualization.
+company - Heretic Solutions Pvt Ltd
+description - â¢ Worked closely with business to identify issues and used data to propose solutions for effective decision making.
+â¢ Manipulating, cleansing & processing data using Python, Excel and R.
+â¢ Analyzed raw data, drawing conclusions & developing recommendations.
+â¢ Used machine learning tools and statistical techniques to produce solutions to problems.",1700,skills python tableau data visualization r studio machine learning statistics iabac certified data scientist with versatile experience over years in managing business data science consulting and leading innovation projects bringing business ideas to working real world solutions being a strong advocator of augmented era where human capabilities are enhanced by machines fahed is passionate about bringing business concepts in area of machine learning ai robotics etc to real life solutions education details january b tech computer science engineering mohali punjab indo global college of engineering data science consultant data science consultant datamites skill details machine learning exprience months python exprience months solutions exprience months data science exprience months data visualization exprience months tableau exprience monthscompany details company datamites description analyzed and processed complex data sets using advanced querying visualization and analytics tools responsible for loading extracting and validation of client data worked on manipulating cleaning processing data using python used tableau for data visualization company heretic solutions pvt ltd description worked closely with business to identify issues and used data to propose solutions for effective decision making manipulating cleansing processing data using python excel and r analyzed raw data drawing conclusions developing recommendations used machine learning tools and statistical techniques to produce solutions to problems,"['c', 'python', 'r', 'machine learning', 'tableau', 'excel']",[],['1'],[],['project'],0.3054640363121039,57.14285714285714,50.0,100,47.41605895846234
+Data Science,"Skills â¢ Python â¢ Tableau â¢ Data Visualization â¢ R Studio â¢ Machine Learning â¢ Statistics IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.Education Details 
+January 2017 B. Tech Computer Science & Engineering Mohali, Punjab Indo Global College of Engineering
+Data Science Consultant 
+
+Data Science Consultant - Datamites
+Skill Details 
+MACHINE LEARNING- Exprience - 13 months
+PYTHON- Exprience - 24 months
+SOLUTIONS- Exprience - 24 months
+DATA SCIENCE- Exprience - 24 months
+DATA VISUALIZATION- Exprience - 24 months
+Tableau- Exprience - 24 monthsCompany Details 
+company - Datamites
+description - â¢ Analyzed and processed complex data sets using advanced querying, visualization and analytics tools.
+â¢ Responsible for loading, extracting and validation of client data.
+â¢ Worked on manipulating, cleaning & processing data using python.
+â¢ Used Tableau for data visualization.
+company - Heretic Solutions Pvt Ltd
+description - â¢ Worked closely with business to identify issues and used data to propose solutions for effective decision making.
+â¢ Manipulating, cleansing & processing data using Python, Excel and R.
+â¢ Analyzed raw data, drawing conclusions & developing recommendations.
+â¢ Used machine learning tools and statistical techniques to produce solutions to problems.",1700,skills python tableau data visualization r studio machine learning statistics iabac certified data scientist with versatile experience over years in managing business data science consulting and leading innovation projects bringing business ideas to working real world solutions being a strong advocator of augmented era where human capabilities are enhanced by machines fahed is passionate about bringing business concepts in area of machine learning ai robotics etc to real life solutions education details january b tech computer science engineering mohali punjab indo global college of engineering data science consultant data science consultant datamites skill details machine learning exprience months python exprience months solutions exprience months data science exprience months data visualization exprience months tableau exprience monthscompany details company datamites description analyzed and processed complex data sets using advanced querying visualization and analytics tools responsible for loading extracting and validation of client data worked on manipulating cleaning processing data using python used tableau for data visualization company heretic solutions pvt ltd description worked closely with business to identify issues and used data to propose solutions for effective decision making manipulating cleansing processing data using python excel and r analyzed raw data drawing conclusions developing recommendations used machine learning tools and statistical techniques to produce solutions to problems,"['c', 'python', 'r', 'machine learning', 'tableau', 'excel']",[],['1'],[],['project'],0.3054640363121039,57.14285714285714,50.0,100,47.41605895846234
+Data Science,"Skills â¢ Python â¢ Tableau â¢ Data Visualization â¢ R Studio â¢ Machine Learning â¢ Statistics IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.Education Details 
+January 2017 B. Tech Computer Science & Engineering Mohali, Punjab Indo Global College of Engineering
+Data Science Consultant 
+
+Data Science Consultant - Datamites
+Skill Details 
+MACHINE LEARNING- Exprience - 13 months
+PYTHON- Exprience - 24 months
+SOLUTIONS- Exprience - 24 months
+DATA SCIENCE- Exprience - 24 months
+DATA VISUALIZATION- Exprience - 24 months
+Tableau- Exprience - 24 monthsCompany Details 
+company - Datamites
+description - â¢ Analyzed and processed complex data sets using advanced querying, visualization and analytics tools.
+â¢ Responsible for loading, extracting and validation of client data.
+â¢ Worked on manipulating, cleaning & processing data using python.
+â¢ Used Tableau for data visualization.
+company - Heretic Solutions Pvt Ltd
+description - â¢ Worked closely with business to identify issues and used data to propose solutions for effective decision making.
+â¢ Manipulating, cleansing & processing data using Python, Excel and R.
+â¢ Analyzed raw data, drawing conclusions & developing recommendations.
+â¢ Used machine learning tools and statistical techniques to produce solutions to problems.",1700,skills python tableau data visualization r studio machine learning statistics iabac certified data scientist with versatile experience over years in managing business data science consulting and leading innovation projects bringing business ideas to working real world solutions being a strong advocator of augmented era where human capabilities are enhanced by machines fahed is passionate about bringing business concepts in area of machine learning ai robotics etc to real life solutions education details january b tech computer science engineering mohali punjab indo global college of engineering data science consultant data science consultant datamites skill details machine learning exprience months python exprience months solutions exprience months data science exprience months data visualization exprience months tableau exprience monthscompany details company datamites description analyzed and processed complex data sets using advanced querying visualization and analytics tools responsible for loading extracting and validation of client data worked on manipulating cleaning processing data using python used tableau for data visualization company heretic solutions pvt ltd description worked closely with business to identify issues and used data to propose solutions for effective decision making manipulating cleansing processing data using python excel and r analyzed raw data drawing conclusions developing recommendations used machine learning tools and statistical techniques to produce solutions to problems,"['c', 'python', 'r', 'machine learning', 'tableau', 'excel']",[],['1'],[],['project'],0.3054640363121039,57.14285714285714,50.0,100,47.41605895846234
+Data Science,"Skills â¢ Python â¢ Tableau â¢ Data Visualization â¢ R Studio â¢ Machine Learning â¢ Statistics IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.Education Details 
+January 2017 B. Tech Computer Science & Engineering Mohali, Punjab Indo Global College of Engineering
+Data Science Consultant 
+
+Data Science Consultant - Datamites
+Skill Details 
+MACHINE LEARNING- Exprience - 13 months
+PYTHON- Exprience - 24 months
+SOLUTIONS- Exprience - 24 months
+DATA SCIENCE- Exprience - 24 months
+DATA VISUALIZATION- Exprience - 24 months
+Tableau- Exprience - 24 monthsCompany Details 
+company - Datamites
+description - â¢ Analyzed and processed complex data sets using advanced querying, visualization and analytics tools.
+â¢ Responsible for loading, extracting and validation of client data.
+â¢ Worked on manipulating, cleaning & processing data using python.
+â¢ Used Tableau for data visualization.
+company - Heretic Solutions Pvt Ltd
+description - â¢ Worked closely with business to identify issues and used data to propose solutions for effective decision making.
+â¢ Manipulating, cleansing & processing data using Python, Excel and R.
+â¢ Analyzed raw data, drawing conclusions & developing recommendations.
+â¢ Used machine learning tools and statistical techniques to produce solutions to problems.",1700,skills python tableau data visualization r studio machine learning statistics iabac certified data scientist with versatile experience over years in managing business data science consulting and leading innovation projects bringing business ideas to working real world solutions being a strong advocator of augmented era where human capabilities are enhanced by machines fahed is passionate about bringing business concepts in area of machine learning ai robotics etc to real life solutions education details january b tech computer science engineering mohali punjab indo global college of engineering data science consultant data science consultant datamites skill details machine learning exprience months python exprience months solutions exprience months data science exprience months data visualization exprience months tableau exprience monthscompany details company datamites description analyzed and processed complex data sets using advanced querying visualization and analytics tools responsible for loading extracting and validation of client data worked on manipulating cleaning processing data using python used tableau for data visualization company heretic solutions pvt ltd description worked closely with business to identify issues and used data to propose solutions for effective decision making manipulating cleansing processing data using python excel and r analyzed raw data drawing conclusions developing recommendations used machine learning tools and statistical techniques to produce solutions to problems,"['c', 'python', 'r', 'machine learning', 'tableau', 'excel']",[],['1'],[],['project'],0.3054640363121039,57.14285714285714,50.0,100,47.41605895846234
+Data Science,"Personal Skills â¢ Ability to quickly grasp technical aspects and willingness to learn â¢ High energy levels & Result oriented. Education Details 
+January 2018 Master of Engineering Computer Technology & Application Bhopal, Madhya Pradesh Truba Institute of Engineering & Information Technology
+January 2010 B.E. computer science Bhopal, Madhya Pradesh RKDF Institute of Science and Technology College of Engineering
+January 2006 Polytechnic Information Technology Vidisha, Madhya Pradesh SATI Engineering College in Vidisha
+January 2003 M.tech Thesis Detail  BMCH School in Ganj basoda
+Data science 
+
+I have six month experience in Data Science. Key Skills: - Experience in Machine Learning, Deep Leaning, NLP, Python, SQL, Web Scraping Good knowledge in computer subjects and ability to update
+Skill Details 
+Experience in Machine Learning, Deep Learning, NLP, Python, SQL, Web Crawling, HTML,CSS.- Exprience - Less than 1 year monthsCompany Details 
+company - RNT.AI Technology Solution
+description - Text classification using Machine learning Algorithms with python.
+Practical knowledge of Deep learning algorithms such as Â Recurrent Neural Networks(RNN).
+Develop custom data models and algorithms to apply to dataset
+Experience with Python packages like Pandas, Scikit-learn, Tensor Flow, Numpy, Matplotliv, NLTK.
+Comfort with SQL, Â MYSQL
+Sentiment analysis.
+Â Apply leave Dataset using classification technique like Tf--idf , LSA with cosine similarity using Machine learning Algorithms.
+Web crawling using Selenium web driver and Beautiful Soup with python.
+company - Life Insurance Corporation of India Bhopal
+description - Ã¼Â Explaining policy features and the benefits
+Ã¼ Updated knowledge of life insurance products and shared with customers",1778,personal skills ability to quickly grasp technical aspects and willingness to learn high energy levels result oriented education details january master of engineering computer technology application bhopal madhya pradesh truba institute of engineering information technology january b e computer science bhopal madhya pradesh rkdf institute of science and technology college of engineering january polytechnic information technology vidisha madhya pradesh sati engineering college in vidisha january m tech thesis detail bmch school in ganj basoda data science i have six month experience in data science key skills experience in machine learning deep leaning nlp python sql web scraping good knowledge in computer subjects and ability to update skill details experience in machine learning deep learning nlp python sql web crawling html css exprience less than year monthscompany details company rnt ai technology solution description text classification using machine learning algorithms with python practical knowledge of deep learning algorithms such as recurrent neural networks rnn develop custom data models and algorithms to apply to dataset experience with python packages like pandas scikit learn tensor flow numpy matplotliv nltk comfort with sql mysql sentiment analysis apply leave dataset using classification technique like tf idf lsa with cosine similarity using machine learning algorithms web crawling using selenium web driver and beautiful soup with python company life insurance corporation of india bhopal description explaining policy features and the benefits updated knowledge of life insurance products and shared with customers,"['c', 'deep learning', 'html', 'mysql', 'python', 'sql', 'r', 'nlp', 'machine learning', 'css']","['b.e', 'master', 'm.tech']",[],[],[],0.3268932865568627,85.71428571428571,0.0,0,42.05895004212885
+Data Science,"Personal Skills â¢ Ability to quickly grasp technical aspects and willingness to learn â¢ High energy levels & Result oriented. Education Details 
+January 2018 Master of Engineering Computer Technology & Application Bhopal, Madhya Pradesh Truba Institute of Engineering & Information Technology
+January 2010 B.E. computer science Bhopal, Madhya Pradesh RKDF Institute of Science and Technology College of Engineering
+January 2006 Polytechnic Information Technology Vidisha, Madhya Pradesh SATI Engineering College in Vidisha
+January 2003 M.tech Thesis Detail  BMCH School in Ganj basoda
+Data science 
+
+I have six month experience in Data Science. Key Skills: - Experience in Machine Learning, Deep Leaning, NLP, Python, SQL, Web Scraping Good knowledge in computer subjects and ability to update
+Skill Details 
+Experience in Machine Learning, Deep Learning, NLP, Python, SQL, Web Crawling, HTML,CSS.- Exprience - Less than 1 year monthsCompany Details 
+company - RNT.AI Technology Solution
+description - Text classification using Machine learning Algorithms with python.
+Practical knowledge of Deep learning algorithms such as Â Recurrent Neural Networks(RNN).
+Develop custom data models and algorithms to apply to dataset
+Experience with Python packages like Pandas, Scikit-learn, Tensor Flow, Numpy, Matplotliv, NLTK.
+Comfort with SQL, Â MYSQL
+Sentiment analysis.
+Â Apply leave Dataset using classification technique like Tf--idf , LSA with cosine similarity using Machine learning Algorithms.
+Web crawling using Selenium web driver and Beautiful Soup with python.
+company - Life Insurance Corporation of India Bhopal
+description - Ã¼Â Explaining policy features and the benefits
+Ã¼ Updated knowledge of life insurance products and shared with customers",1778,personal skills ability to quickly grasp technical aspects and willingness to learn high energy levels result oriented education details january master of engineering computer technology application bhopal madhya pradesh truba institute of engineering information technology january b e computer science bhopal madhya pradesh rkdf institute of science and technology college of engineering january polytechnic information technology vidisha madhya pradesh sati engineering college in vidisha january m tech thesis detail bmch school in ganj basoda data science i have six month experience in data science key skills experience in machine learning deep leaning nlp python sql web scraping good knowledge in computer subjects and ability to update skill details experience in machine learning deep learning nlp python sql web crawling html css exprience less than year monthscompany details company rnt ai technology solution description text classification using machine learning algorithms with python practical knowledge of deep learning algorithms such as recurrent neural networks rnn develop custom data models and algorithms to apply to dataset experience with python packages like pandas scikit learn tensor flow numpy matplotliv nltk comfort with sql mysql sentiment analysis apply leave dataset using classification technique like tf idf lsa with cosine similarity using machine learning algorithms web crawling using selenium web driver and beautiful soup with python company life insurance corporation of india bhopal description explaining policy features and the benefits updated knowledge of life insurance products and shared with customers,"['c', 'deep learning', 'html', 'mysql', 'python', 'sql', 'r', 'nlp', 'machine learning', 'css']","['b.e', 'master', 'm.tech']",[],[],[],0.3268932865568627,85.71428571428571,0.0,0,42.05895004212885

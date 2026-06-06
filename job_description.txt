@@ -1,0 +1,58 @@
+Data Scientist
+
+Company Overview
+
+We are looking for a highly motivated Data Scientist to join our analytics team. The candidate will work on machine learning, predictive analytics, data visualization, and AI-driven business solutions.
+
+Responsibilities
+
+* Develop machine learning and deep learning models.
+* Analyze large datasets to extract meaningful insights.
+* Build predictive analytics solutions.
+* Design and deploy NLP applications.
+* Create dashboards and visualizations for business stakeholders.
+* Collaborate with software engineers and business teams.
+* Perform feature engineering and model optimization.
+
+Required Skills
+
+* Python
+* SQL
+* Machine Learning
+* Deep Learning
+* TensorFlow
+* Keras
+* Natural Language Processing (NLP)
+* Data Analysis
+* Statistics
+* Pandas
+* NumPy
+* Scikit-Learn
+* Tableau or Power BI
+* Git
+
+Preferred Skills
+
+* AWS
+* Azure
+* Docker
+* PyTorch
+* Spark
+
+Education
+
+Bachelor's Degree in Computer Science, Data Science, Information Technology, Statistics, or a related field.
+
+Experience
+
+Minimum 2 years of experience in Data Science, Machine Learning, or Artificial Intelligence projects.
+
+Projects
+
+Candidates should have worked on at least one real-world machine learning, deep learning, NLP, or predictive analytics project.
+
+Certifications (Preferred)
+
+* AWS Certified Machine Learning
+* Microsoft Azure AI Engineer
+* Google Professional Machine Learning Engineer

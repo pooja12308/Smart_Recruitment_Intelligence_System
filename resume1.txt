@@ -1,0 +1,97 @@
+JOHN SMITH
+
+Email: [johnsmith@email.com](mailto:johnsmith@email.com)
+Phone: +91 9876543210
+Location: Hyderabad, India
+
+PROFESSIONAL SUMMARY
+
+Data Scientist with 3 years of experience in Machine Learning, Deep Learning, Natural Language Processing, and Predictive Analytics. Experienced in developing AI solutions, building data pipelines, and deploying machine learning models for business applications.
+
+TECHNICAL SKILLS
+
+Programming Languages:
+
+* Python
+* SQL
+* R
+
+Machine Learning & AI:
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* TensorFlow
+* Keras
+* PyTorch
+* Scikit-Learn
+
+Data Analysis:
+
+* Pandas
+* NumPy
+* Statistics
+* Data Visualization
+
+Visualization Tools:
+
+* Tableau
+* Power BI
+
+Cloud & DevOps:
+
+* AWS
+* Docker
+* Git
+
+EDUCATION
+
+Bachelor of Technology (B.Tech) in Computer Science
+Jawaharlal Nehru Technological University
+2018 – 2022
+
+WORK EXPERIENCE
+
+Data Scientist
+ABC Analytics Pvt. Ltd.
+June 2022 – Present
+
+Responsibilities:
+
+* Built machine learning models for customer churn prediction.
+* Developed deep learning models using TensorFlow and Keras.
+* Performed data preprocessing, feature engineering, and model evaluation.
+* Designed NLP solutions for customer feedback analysis.
+* Created dashboards and reports using Tableau.
+
+PROJECTS
+
+Customer Churn Prediction System
+
+* Developed a machine learning model to predict customer attrition.
+* Achieved 91% prediction accuracy.
+
+Resume Screening AI
+
+* Built an NLP-based recruitment assistant.
+* Implemented TF-IDF and cosine similarity for candidate ranking.
+
+Sentiment Analysis System
+
+* Developed a deep learning model for sentiment classification.
+* Used TensorFlow, Keras, and NLP techniques.
+
+CERTIFICATIONS
+
+* AWS Certified Machine Learning Specialty
+* Microsoft Azure AI Fundamentals
+
+ACHIEVEMENTS
+
+* Employee of the Quarter (2024)
+* Best Innovation Award for AI Project Development
+
+LANGUAGES
+
+* English
+* Hindi

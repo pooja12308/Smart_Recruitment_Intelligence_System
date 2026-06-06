@@ -1,0 +1,29 @@
+RAHUL KUMAR
+
+Email: [rahul@email.com](mailto:rahul@email.com)
+
+CAREER OBJECTIVE
+
+Seeking an entry-level software position to learn and grow in the IT industry.
+
+SKILLS
+
+* HTML
+* CSS
+* JavaScript
+* Basic Java
+
+EDUCATION
+
+Bachelor of Computer Applications (BCA)
+2021 – 2024
+
+PROJECTS
+
+Portfolio Website
+
+* Designed a personal portfolio website using HTML and CSS.
+
+CERTIFICATIONS
+
+* Web Development Fundamentals
